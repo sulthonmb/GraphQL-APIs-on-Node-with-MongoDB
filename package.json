@@ -4,7 +4,10 @@
   "description": "",
   "main": "src/app.js",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.0",
+    "graphql-tools": "^3.1.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -26,4 +29,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sulthonmb/GraphQL-
+    "url": "https://github.com/sulthonmb/GraphQL-APIs-on-Node-with-MongoDB/issues"
+  },
+  "homepage": "https://github.com/sulthonmb/GraphQL-APIs-on-Node-with-MongoDB#readme"
+}
